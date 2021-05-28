@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497337350568",
+    "project_id": "mydoctor-8fcc9",
+    "storage_bucket": "mydoctor-8fcc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497337350568:android:7a92a4f64851b25a42859d",
+        "android_client_info": {
+          "package_name": "com.onedot.mydoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497337350568-tqvg98oh7cvps31p0jdov4ad7k0ulnkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmFNKAPR9h7IU8_Bg2WUxN3Kpa4F6LjkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497337350568-tqvg98oh7cvps31p0jdov4ad7k0ulnkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
